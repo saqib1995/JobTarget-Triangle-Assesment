@@ -6,7 +6,7 @@ public class Main {
 		
 		String triangleFile = "src/triangle.txt";
 		Triangle triangle = TriangleUtility.createTriangle(triangleFile);
-		System.out.println(triangle.findMaxSum());
+		System.out.println("The Max Sum for the Triangle is: " + triangle.findMaxSum());
 		
 	}
 	
