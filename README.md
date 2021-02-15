@@ -27,5 +27,5 @@ Prints the Max sum for the Triangle.
  - findMaxSum() --> Begins to find the max sum starting from the root and moving down to the leaves.
  - findMaxSum(currentNode) --> Overloaded findMaxSum() to find max sum when a node is provided.
  
- ***3. TreeNode.java***
+ ***4. TreeNode.java***
  <br/> This class provides a structure for my tree nodes with value provided to constructor and left and right tree nodes initialized null at creation of an object.
